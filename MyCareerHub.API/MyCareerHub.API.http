@@ -1,0 +1,6 @@
+@MyCareerHub.API_HostAddress = http://localhost:5174
+
+GET {{MyCareerHub.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
